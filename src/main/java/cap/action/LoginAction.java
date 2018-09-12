@@ -9,7 +9,6 @@ import java.util.Map;
 public class LoginAction extends ActionSupport implements SessionAware {
     private Admin admin;
     Map<String, Object> session;
-
     public Admin getAdmin() {
 
         return admin;

@@ -10,5 +10,4 @@ public class TimerAction extends ActionSupport {
             e.printStackTrace();
         }
         return SUCCESS;
-    }
-}
+    }}
